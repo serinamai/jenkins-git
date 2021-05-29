@@ -2,4 +2,4 @@
 
 A simple project to test jenkins git integration
 And it should be triggered by any change. 
-Adding more texts for polling job
+Update test to check the webhook is integrated successfully
